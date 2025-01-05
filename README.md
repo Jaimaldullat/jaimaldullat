@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I%27m+a+Full-Stack+Dev;Welcome+to+my+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I%27m+a+Jaimal+Dullat;Welcome+to+my+Profile" />
 </div>
+
+
+
 
 # 🚀 Tech Stack
 
@@ -18,15 +21,20 @@
 # 💫 About Me
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Jaimal Dullat",
     role: "Full Stack Developer",
-    languages: ["JavaScript", "PHP", "HTML", "CSS"],
-    frameworks: {
-        frontend: ["Vue.js", "Vuetify"],
-        backend: ["Laravel"]
-    },
-    databases: ["PostgreSQL", "MySQL"],
-    tools: ["Git", "Vite"],
-    currentFocus: "Building scalable web applications",
-    philosophy: "Never stop learning and evolving 📚"
+    about: "Just another person who stares at screens and " + 
+           "argues with computers all day. Sometimes they listen.",
+    mindset: [
+        "Chai first, questions later",
+        "It works on my machine",
+        "Sleep is optional"
+    ],
+    currentWork: "Probably debugging something",
+    whenNotCoding: [
+        "Still coding",
+        "Pretending to have a life",
+        "Looking at more screens"
+    ]
 };
+```
