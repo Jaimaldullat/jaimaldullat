@@ -28,5 +28,5 @@ const developer = {
     databases: ["PostgreSQL", "MySQL"],
     tools: ["Git", "Vite"],
     currentFocus: "Building scalable web applications",
-    funFact: "Converting ideas into working code 💡"
+    philosophy: "Never stop learning and evolving 📚"
 };
