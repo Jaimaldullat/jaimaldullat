@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I%27m+a+Full-Stack+Developer;Welcome+to+my+Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I%27m+a+Full-Stack+Dev;Welcome+to+my+Profile" />
 </div>
 
 # 🚀 Tech Stack
@@ -18,14 +18,15 @@
 # 💫 About Me
 ```javascript
 const developer = {
-    name: "Jaimal Dullat",
+    name: "Your Name",
     role: "Full Stack Developer",
-    code: ["JavaScript", "PHP", "HTML", "CSS"],
+    languages: ["JavaScript", "PHP", "HTML", "CSS"],
     frameworks: {
-        frontend: ["Vue.js", "Vuetify", "Vite"],
+        frontend: ["Vue.js", "Vuetify"],
         backend: ["Laravel"]
     },
     databases: ["PostgreSQL", "MySQL"],
-    currentFocus: "Building robust web applications",
+    tools: ["Git", "Vite"],
+    currentFocus: "Building scalable web applications",
     funFact: "Converting ideas into working code 💡"
 };
