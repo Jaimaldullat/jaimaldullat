@@ -18,7 +18,7 @@
 # 💫 About Me
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Jaimal Dullat",
     role: "Full Stack Developer",
     code: ["JavaScript", "PHP", "HTML", "CSS"],
     frameworks: {
@@ -27,5 +27,5 @@ const developer = {
     },
     databases: ["PostgreSQL", "MySQL"],
     currentFocus: "Building robust web applications",
-    funFact: "I transform coffee into code ☕️"
+    funFact: "Converting ideas into working code 💡"
 };
